@@ -6,7 +6,7 @@ address width, again 18 bits data width, 16 registers and supports 16 instructio
 ADD, AND, OR, XOR, ADDI, ANDI, ORI, XORI, LD, ST, JUMP, BEQ, BLT, BGT,
 BLE, BGE.
 
-For first step, a ISA table is designed and based on that table, a java program that convert instructions to binary messages, is implemented
+For first step, a ISA table is designed and based on that table, a java program that convert instructions to binary messages, is implemented.
 
 For second step, a 18 bits-processor is designed with it's components like Arithmetic Logic Unit, Branch Unit, Program Counter, Register File, Control Unit, Adders, Comparators and finally Main Unit in Logisim tool. 
 
