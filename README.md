@@ -1,4 +1,4 @@
-# 18bits_-processor  
+## 18bits_-processor  
 2019-2020 Fall CSE3015 - Digital Logic Project
 
 In this project, we are supposed to design a basic processor which has the 18 bits
